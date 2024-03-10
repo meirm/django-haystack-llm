@@ -25,7 +25,7 @@ This Django-Haystack implementation introduces an ORM-based search backend, `Eng
 
 1. **Install Dependencies**: Ensure you have Django, Django-Haystack, and the `python-dotenv` package installed in your environment.
    ```bash
-   pip install django haystack python-dotenv
+   pip install django haystack python-dotenv langchain==0.0.27 openai==0.28.0
    ```
 
 2. **Configure `.env` File**: Create a `.env` file in your project root and add your OpenAI API key.
