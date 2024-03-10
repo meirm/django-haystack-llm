@@ -2,6 +2,8 @@
 
 ## Django-Haystack LLM Enhanced Search Backend
 
+![POC](translate.png)
+
 ## Overview
 
 This Django-Haystack implementation introduces an ORM-based search backend, `EnglishSearchBackend`, enhanced with Large Language Model (LLM) technology for generating semantic query alternatives. Designed primarily for testing and demonstration purposes, it offers a simple yet powerful example of integrating LLMs with Django-Haystack to perform semantic search operations.
